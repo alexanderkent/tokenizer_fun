@@ -1,0 +1,6 @@
+jupyter
+ipywidgets
+tiktoken
+matplotlib
+numpy
+regex
